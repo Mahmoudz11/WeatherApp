@@ -1,0 +1,15 @@
+export const Images = {
+    main : require('../../assets/Images/main.jpeg'),
+    clearSky : require('../../assets/Images/clearSky.png'),
+    mist : require('../../assets/Images/mist.png'),
+    thunderStorm : require('../../assets/Images/thunderStorm.png'),
+    brokenClouds : require('../../assets/Images/brokenClouds.png'),
+    fewClouds : require('../../assets/Images/fewClouds.png'),
+    rain : require('../../assets/Images/rain.png'),
+    scatteredClouds : require('../../assets/Images/scatteredClouds.png'),
+    showerRain : require('../../assets/Images/showerRain.png'),
+    snow : require('../../assets/Images/snow.png'),
+    location : require('../../assets/Images/location.png'),
+    dawn : require('../../assets/Images/dawn.jpg'),
+    earlyMorning : require('../../assets/Images/earlyMorning.jpeg'),
+}
